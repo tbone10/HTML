@@ -1,0 +1,101 @@
+body {
+  line-height: 1.5;
+  color: white;
+
+  font-family: 'Lato', sans-serif;
+  
+  background: url('../images/wood.png');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  text-align: center;
+  width: 500px;
+  margin: 0px auto;
+  background: rgba(0,0,0,0.7);
+  padding: 2px;
+  border-radius: 25px;
+}
+
+.nav-container {
+  background: #ff3300;
+}
+
+.clear {
+  clear: both;
+}
+
+.container1 {
+  margin: 0 auto 0 auto;
+  width: 950px;
+}
+
+h1 {
+  
+  font-family: 'Orbitron', sans-serif;
+	font-size: 50px;
+  color: black;
+  
+}
+
+h2 {
+  font-family: 'Orbitron', sans-serif;
+	font-size: 30px;
+ }
+
+ h3 {
+  font-family: 'Indie Flower', cursive;
+  color: yellow;
+ }
+
+a {
+	color: #BFE35B;
+	text-decoration: none;
+}
+p {
+
+  font-family: 'Indie Flower', cursive;
+  text-shadow: 1px 1px 1px #000;
+}
+
+
+
+.video{
+  text-align: center;
+  padding-top: -5px;
+  /* border-radius: 25px; */
+}
+
+.fb-like {
+   position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+ 
+}
+nav ul {
+  padding-left: 0;
+}
+
+
+nav ul li {
+  float: left;
+  list-style: none;
+  font-size: 20px;
+}
+
+nav ul li a {
+  color: #FFF;
+  margin: 16px;
+  padding: 16px;
+  display: block;
+}
+
+nav ul li a:hover {
+  color: #000;
+  transition: color 0.3s ease-in;
+}
