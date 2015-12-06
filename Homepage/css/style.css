@@ -22,6 +22,7 @@ body {
 
 .nav-container {
   background: #ff3300;
+
 }
 
 .clear {
@@ -29,9 +30,9 @@ body {
 }
 
 .container1 {
-  margin: 0 auto 0 auto;
-  width: 950px;
-  text-align: center;
+    margin-left: auto ;
+    margin-right: auto ;
+    width: 950px;
 }
 
 h1 {
@@ -79,13 +80,12 @@ p {
  
 }
 nav ul {
-  padding-left: 0;
+  text-align:center;
 }
 
 
 nav ul li {
-  float: left;
-  list-style: none;
+  display:inline-block;
   font-size: 20px;
 }
 
