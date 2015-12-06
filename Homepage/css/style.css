@@ -9,6 +9,8 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  font-size: 100%;
+  margin:0;
 }
 
 .container {
@@ -79,6 +81,8 @@ p {
   transform: translate(-50%, -50%);
  
 }
+
+
 nav ul {
   text-align:center;
 }
