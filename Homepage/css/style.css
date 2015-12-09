@@ -69,18 +69,14 @@ p {
 
 .video{
   text-align: center;
-  padding-top: -5px;
+  padding-top: 35px;
   /* border-radius: 25px; */
 }
 
 .fb-like {
-   position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
- 
+ text-align:center;
 }
+
 
 
 nav ul {
