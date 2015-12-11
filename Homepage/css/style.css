@@ -75,6 +75,14 @@ p {
 
 .fb-like {
  text-align:center;
+
+}
+
+.fb-comments {
+  width: 950px;
+  margin: 0px auto;
+  text-align:center;
+ 
 }
 
 

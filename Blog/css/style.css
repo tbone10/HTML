@@ -127,6 +127,15 @@ a {
 	background: #ff3300;
 }
 
+.fb-comments {
+	width: 600px;
+	float: left;
+	background: #FFF;
+	padding: 25px;
+	margin-right: 10px;
+	font-size: 12px;
+}
+
 nav ul {
   text-align:center;
 
