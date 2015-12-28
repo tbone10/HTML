@@ -78,11 +78,16 @@ p {
 
 }
 
-.fb-comments {
-  width: 950px;
-  margin: 0px auto;
-  text-align:center;
- 
+.fb_iframe_widget {
+    display: inline-block;
+    position: relative;
+  }
+
+  .fb-comments {
+    width: 1950px;
+    margin: 0px auto;
+    text-align: center;
+    padding: 25px;
 }
 
 
